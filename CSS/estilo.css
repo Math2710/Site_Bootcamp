@@ -7,10 +7,26 @@ li{
  font-size: 18px;
  }
 .Cinza{
-  background: rgb(208, 213, 218);
+  background: rgb(240, 241, 241);
 
 }
 
 .center{
   text-align: center;
+}
+
+.borda{
+  border-left: 3px solid rgb(0, 102, 255);
+  border-radius: 5px;
+  
+}
+.hover{
+  text-decoration: none;
+}
+
+h1{
+  color:  rgb(0, 102, 255);
+}
+h2{
+  color:  rgb(0, 60, 151);
 }
